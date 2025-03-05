@@ -1,0 +1,1 @@
+This repository provides an introduction to essential statistical concepts and techniques for psychologists. Learn how to analyze and interpret data using practical examples, code snippets (in R or Python), and step-by-step guides. Perfect for students and professionals in psychology looking to strengthen their statistical skills! 📊🧠
